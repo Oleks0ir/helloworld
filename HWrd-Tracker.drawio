@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.0.7">
   <diagram name="Page-1" id="LWjvErvOmaFQDJud9fTO">
-    <mxGraphModel dx="1178" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -164,6 +164,28 @@
         </mxCell>
         <mxCell id="j2P4baf0Y8swD9OOyOso-56" value="Linked: [{linked task}, {linked task}]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j2P4baf0Y8swD9OOyOso-50">
           <mxGeometry x="5" y="120" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j2P4baf0Y8swD9OOyOso-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LL36ijI9YIH7sUz_ETvz-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" as="sourcePoint" />
+            <mxPoint x="190" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="40" />
+              <mxPoint x="191" y="40" />
+              <mxPoint x="191" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j2P4baf0Y8swD9OOyOso-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LL36ijI9YIH7sUz_ETvz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" as="sourcePoint" />
+            <mxPoint x="420" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="30" />
+              <mxPoint x="421" y="30" />
+              <mxPoint x="421" y="60" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
