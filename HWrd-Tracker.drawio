@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.0.7">
+  <diagram name="Page-1" id="LWjvErvOmaFQDJud9fTO">
+    <mxGraphModel dx="1001" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL36ijI9YIH7sUz_ETvz-1" target="LL36ijI9YIH7sUz_ETvz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-1" value="JOB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-2" value="JOB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="580" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-4" value="JOB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-6" value="Job is a container used to store data on specific, not connected projects. Links between different JOB-Elements is not possible at the moment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-8" value="REQUEST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LL36ijI9YIH7sUz_ETvz-1" target="LL36ijI9YIH7sUz_ETvz-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="110" as="sourcePoint" />
+            <mxPoint x="495" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-12" value="REQUEST" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LL36ijI9YIH7sUz_ETvz-14" value="REQUEST is an element of JOB. REQUESTS can be connected and influence each other. REQUESTS can also cascade. REQUESTS on different levels of abstraction can be interlinked. One REQUEST can only be a part of one JOB, but may belong to many REQUEST." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="190" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
